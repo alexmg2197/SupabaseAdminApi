@@ -1,0 +1,6 @@
+@SupabaseAdminApi_HostAddress = http://localhost:5003
+
+GET {{SupabaseAdminApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
